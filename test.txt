@@ -1,0 +1,6 @@
+# This is a text file
+Type i to insert mode
+Type esc to enter normal mode
+type : to enter command mode.
+:w save changes
+:q quit file
